@@ -1,7 +1,0 @@
-# Ignorar el archivo configracion local
-configuracion_local.sh
-# Ignorar archivos personales
-archivos_privados/
-# Ignorar los archivos en bruto de Photoshop y Gimp
-*.xcf
-*.psd
