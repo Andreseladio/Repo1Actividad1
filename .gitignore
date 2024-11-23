@@ -1,0 +1,7 @@
+# Ignorar el archivo configuracion_local.sh
+configuracion_local.sh
+# Ignorar archivos_privados
+archivos_privados/
+# Ignorar extensiones .psd y .xcf
+*.psd
+*.xcf
